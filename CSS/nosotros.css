@@ -331,10 +331,6 @@ section{
   width: 100vw;
   background-color: #f0e698;
 }
-@font-face {
-  font-family: "Valor";
-  src: url(../media/VALORANT.otf), url(../media/VALORANT.ttf);
-}
 .XD2{
   font-size: 30px;
   color: black;
